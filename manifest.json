@@ -1,0 +1,10 @@
+{
+	"id"           : "community-cmd",
+	"name"         : "Community Plugins Browser command",
+	"version"      : "0.0.1",
+	"minAppVersion": "1.0.0",
+	"description"  : "Adds a new command to directly open the Community plugins browser.",
+	"author"       : "MrBertie",
+	"authorUrl"    : "https://github.com/MrBertie/community-plugins-browser",
+	"isDesktopOnly": false
+}
