@@ -10,6 +10,6 @@ You will need to go to the *Plugin Settings* page in Obsidian and enable the plu
 
 # How to use
 
-Open `Community Plugins Browser` from the command palette, or add a button to the Ribbon if you need regular, quickly access.
+Open `Community Plugins Browser` from the command palette, or add a button to the Ribbon if you need quicker access.
 
 🦜"That's all folks."
